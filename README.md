@@ -1,5 +1,5 @@
 ﻿## Круглый дом (КД) 
-![Текущий внешний вид](https://github.com/RudenkoPeter/KD/house%20r.jpg)
+![Текущий внешний вид](https://github.com/RudenkoPeter/KD/blob/master/house%20r.jpg)
 
 
 ### Общие данные:
